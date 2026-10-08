@@ -12,6 +12,17 @@ Available packages:
 
 - `activity-island-transfer-bridge-chrome.zip`
 - `activity-island-transfer-bridge-firefox.xpi`
+- `activity-island-bridge-windows-x64-v1.0.1.zip`
+
+## Activity Island Bridge
+
+The browser extensions require the local Activity Island Bridge to communicate with the widget.
+
+1. Download `activity-island-bridge-windows-x64-v1.0.1.zip`.
+2. Extract the ZIP and run `Install.cmd`.
+3. Open Activity Island and confirm that it shows **Service connected**.
+
+No administrator access or separate Node.js installation is required. The Bridge starts automatically when you sign in.
 
 ## Chrome Installation
 
